@@ -3,7 +3,7 @@ package mail
 import (
 	"encoding/json"
 	"fmt"
-	lib "submail/lib"
+	lib "github.com/noxue/submail/lib"
 	"strings"
 )
 

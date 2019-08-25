@@ -2,7 +2,7 @@ package internationalsms
 
 import (
 	"encoding/json"
-	lib "submail/lib"
+	lib "github.com/noxue/submail/lib"
 )
 
 type multixsend struct {

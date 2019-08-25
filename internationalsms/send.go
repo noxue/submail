@@ -1,7 +1,7 @@
 package internationalsms
 
 import (
-	lib "submail/lib"
+	lib "github.com/noxue/submail/lib"
 )
 
 type send struct {

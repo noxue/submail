@@ -2,7 +2,7 @@ package mms
 
 import (
 	"encoding/json"
-	lib "submail/lib"
+	lib "github.com/noxue/submail/lib"
 )
 
 type multixsend struct {

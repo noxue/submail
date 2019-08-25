@@ -2,7 +2,7 @@ package sms
 
 import (
 	"encoding/json"
-	lib "submail/lib"
+	lib "github.com/noxue/submail/lib"
 )
 
 type xsend struct {
